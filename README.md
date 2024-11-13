@@ -13,7 +13,7 @@ For example, the version number for the date `2024-05-13 14:30:00 +0000 UTC` wou
 You can install the **ver** using the command:
 
 ```sh
-go install https://github.com/av1ppp/ver/cmd/ver
+go install github.com/av1ppp/ver/cmd/ver@latest
 ```
 
 Ensure you have Go installed and properly configured in your environment.
